@@ -1,0 +1,9 @@
+.floating-btn {
+	width: 5rem;
+	height: 5rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: none;
+	filter: drop-shadow(10px 10px 4px #375a68);
+}
